@@ -6,6 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software and Cloud Engineer
 ---------------------------
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+More About Me :
 * 🌍  I'm based in Rajasthan, India
 * 🖥️  See my portfolio at [yashh.in](http://yashh.in)
 * ✉️  You can contact me at [yash.parmar2908@gmail.com](mailto:yash.parmar2908@gmail.com)
@@ -36,3 +39,9 @@ src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-ba
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zatch07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zatch07&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
