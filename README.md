@@ -3,6 +3,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yashpal Parmar
 ======================================================================================================================================
 
+
+
 Software and Cloud Engineer
 ---------------------------
 
@@ -36,10 +38,22 @@ src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-ba
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Zatch07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zatch07&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" width="50%" style="padding-right: 20px;">
+      <b style="display: block; margin-bottom: 10px;">My GitHub Stats</b>
+      <a href="http://www.github.com/Zatch07">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zatch07&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <b style="display: block; margin-bottom: 10px;">Last jammed on Spotify</b>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=jukd9bommqnp5iw0r2rm6ndh0&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=jukd9bommqnp5iw0r2rm6ndh0&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
