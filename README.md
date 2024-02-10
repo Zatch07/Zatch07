@@ -41,11 +41,31 @@ src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-ba
 
 
 
-### Socials
+<h2 align="center" style="font-size: 24px;">Socials</h2>
 
-<p align="left"> <a href="https://discord.com/users/z.yashh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Zatch07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/z.yashh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yashpal-parmar/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Z_Yashh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/y_zatch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <a href="mailto:yash.parmar2908@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/gmail.png?raw=true" width="64" height="64" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/z.yashh" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/discord.png?raw=true" width="64" height="64" alt="Discord" />
+  </a>
+  <a href="http://www.instagram.com/z.yashh" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/instagram.png?raw=true" width="64" height="64" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashpal-parmar/" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/linkedin.png?raw=true" width="64" height="64" alt="LinkedIn" />
+  </a>
+  <a href="https://www.x.com/Z_Yashh" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/twitter.png?raw=true" width="64" height="64" alt="Twitter" />
+  </a>
+  <a href="https://www.twitch.tv/y_zatch" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
+    <img src="https://github.com/Zatch07/Zatch07/blob/main/Icons/twitch.png?raw=true" width="64" height="64" alt="Twitch" />
+  </a>
+</p>
 
-### Badges
+
+<h2 align="center" style="font-size: 24px;"></h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
