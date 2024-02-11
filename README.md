@@ -1,15 +1,14 @@
-Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> My name is Yashpal Parmar
+ℍ𝕚 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> 𝕄𝕪 𝕟𝕒𝕞𝕖 𝕚𝕤 Ƴᥲ⳽ᖾρᥲꙆ ᕈᥲɾຕᥲɾ
 ======================================================================================================================================
 
 
-
-Software and Cloud Engineer
+SOᖴTᗯᗩᖇᕮ ᗩᑎᗪ ᑕᒪOᑌᗪ ᕮᑎGIᑎᕮᕮᖇ
 ---------------------------
 
 <img align="right" alt="GIF" src="https://github.com/Zatch07/Zatch07/blob/main/Comm.gif" width="320" height="320" />
 
 
-More About Me :
+𝙈𝙤𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 :
 * 🌍  I'm based in Rajasthan, India
 * 🖥️  See my portfolio at [yashh.in](http://yashh.in)
 * ✉️  You can contact me at [yash.parmar2908@gmail.com](mailto:yash.parmar2908@gmail.com)
@@ -23,7 +22,7 @@ src="https://img.shields.io/twitter/follow/Z_Yashh?logo=twitter&style=for-the-ba
 /></a><a href="https://www.twitch.tv/y_zatch" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-### Skills
+### 𝙎𝙠𝙞𝙡𝙡𝙨
 
 
 <p align="left">
@@ -48,7 +47,7 @@ src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-ba
 </p>
 
 
-<h2 align="center" style="font-size: 24px;">Socials</h2>
+<h2 align="center" style="font-size: 24px;">𝙎𝙤𝙘𝙞𝙖𝙡𝙨</h2>
 
 <p align="center">
   <a href="mailto:yash.parmar2908@gmail.com" target="_blank" rel="noreferrer" style="margin-right: 20px; margin-bottom: 20px;">
@@ -77,13 +76,13 @@ src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-ba
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td valign="top" width="50%" style="padding-right: 20px;">
-      <b style="display: block; margin-bottom: 10px;">My GitHub Stats</b>
+      <b style="display: block; margin-bottom: 10px;">𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗  𝙎𝙩𝙖𝙩𝙨</b>
       <a href="http://www.github.com/Zatch07">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zatch07&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);" />
       </a>
     </td>
     <td valign="top" width="50%">
-      <b style="display: block; margin-bottom: 10px;">Last jammed on Spotify</b>
+      <b style="display: block; margin-bottom: 10px;">𝙇𝙖𝙨𝙩 𝙟𝙖𝙢𝙢𝙚𝙙 𝙤𝙣 𝙎𝙥𝙤𝙩𝙞𝙛𝙮</b>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=jukd9bommqnp5iw0r2rm6ndh0&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=jukd9bommqnp5iw0r2rm6ndh0&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);" />
       </a>
