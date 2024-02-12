@@ -10,7 +10,7 @@ SOᖴTᗯᗩᖇᕮ ᗩᑎᗪ ᑕᒪOᑌᗪ ᕮᑎGIᑎᕮᕮᖇ
 
 𝙈𝙤𝙧𝙚 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 :
 * 🌍  I'm based in Rajasthan, India
-* 🖥️  See my portfolio at [yashh.in]([http://yashh.in](https://main.d2f88j8him6upd.amplifyapp.com/))
+* 🖥️  See my portfolio at [yashh.in](https://main.d2f88j8him6upd.amplifyapp.com/)
 * ✉️  You can contact me at [yash.parmar2908@gmail.com](mailto:yash.parmar2908@gmail.com)
 * 🧠  I'm learning Cloud computing and its applications
 * 🤝  I'm open to collaborating on any Cloud Related Projects
