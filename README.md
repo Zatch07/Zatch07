@@ -16,11 +16,17 @@ SOᖴTᗯᗩᖇᕮ ᗩᑎᗪ ᑕᒪOᑌᗪ ᕮᑎGIᑎᕮᕮᖇ
 * 🧠  I'm learning Cloud computing and its applications
 * ⚡  Seeking the next key to unlock my career potential.
 
-<a href="https://www.github.com/Zatch07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Zatch07?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a><a href="https://www.x.com/Z_Yashh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Z_Yashh?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000"
-/></a><a href="https://www.twitch.tv/y_zatch" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=000000&label=TWITCH+STATUS" /></a>
+<a href="https://www.github.com/Zatch07" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Zatch07?logo=github&style=for-the-badge&color=facc15&labelColor=000000" />
+</a>
+<br>
+<a href="https://www.x.com/Z_Yashh" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/Z_Yashh?logo=twitter&style=for-the-badge&color=facc15&labelColor=000000" />
+</a>
+<br>
+<a href="https://www.twitch.tv/y_zatch" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitch/status/y_zatch?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=000000&label=TWITCH+STATUS" />
+</a>
 
 ### 𝙎𝙠𝙞𝙡𝙡𝙨
 
